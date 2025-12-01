@@ -11,4 +11,3 @@ I'm interested in anything that's related to informatics and coding!
   <li>Email: martyjaco02@gmail.com</li>
   <li>Instagram account: <a href="https://www.instagram.com/martina.iacoponi/">martina.iacoponi</a></li>
 </ul>
-<p>esempio</p>
