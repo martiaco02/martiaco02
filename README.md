@@ -3,7 +3,7 @@ I'm interested in anything that's related to informatics and coding!
 <h2>Education🎓</h2>
 <ul>
   <li>Bachelor's Degree in <strong>Computer Engineering</strong> (<em>University of Pisa</em>, 2025).</li>
-  <li>Student of the Master's Degree in <strong>Computer Engineering</strong>(<em>University of Pisa</em>). </li>
+  <li>Student of the Master's Degree in <strong>Computer Engineering</strong> (<em>University of Pisa</em>). </li>
 </ul>
 
 <h2>Contact me 📮</h2>
