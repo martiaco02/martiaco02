@@ -6,7 +6,7 @@ I'm interested in anything that's related to informatics and coding!
   <li>Student of the Master's Degree in <strong>Computer Engineering</strong> (<em>University of Pisa</em>). </li>
 </ul>
 
-<h2>Contact me 📮</h2>
+<h2>Contact me ciao 📮</h2>
 <ul>
   <li>Email: martyjaco02@gmail.com</li>
   <li>Instagram account: <a href="https://www.instagram.com/martina.iacoponi/">martina.iacoponi</a></li>
