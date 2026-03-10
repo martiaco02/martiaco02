@@ -1,13 +1,34 @@
 <h1>Hello, I'm Martina! 😊</h1>
-I'm interested in anything that's related to informatics and coding!
+I'm interested in anything that's related to informatics and coding! I'm currently a student of the Master's Degree in Computer Engineering at University of Pisa, Italy. 
 <h2>Education 🎓</h2>
 <ul>
   <li>Bachelor's Degree in <strong>Computer Engineering</strong> (<em>University of Pisa</em>, 2025).</li>
   <li>Student of the Master's Degree in <strong>Computer Engineering</strong> (<em>University of Pisa</em>, 2025 - ). </li>
 </ul>
 
+
+<h2>Tech Stack & Tools 🛠️</h2>
+**Software Development**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Workflows:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Hardware & FPGA Design**
+![VHDL](https://img.shields.io/badge/VHDL-%2300599C.svg?style=for-the-badge)
+
 <h2>Contact me 📮</h2>
-<ul>
-  <li>Email: martyjaco02@gmail.com</li>
-  <li>Instagram account: <a href="https://www.instagram.com/martina.iacoponi/">martina.iacoponi</a></li>
-</ul>
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martyjaco02@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/martina.iacoponi)
