@@ -36,6 +36,7 @@ I'm interested in anything that's related to informatics and coding! I'm current
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Hardware & FPGA Design**
+
 ![VHDL](https://img.shields.io/badge/VHDL-%2300599C.svg?style=for-the-badge)
 ![Verilog](https://img.shields.io/badge/Verilog-%232B3467.svg?style=for-the-badge)
 
