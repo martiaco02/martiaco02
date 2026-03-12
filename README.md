@@ -1,6 +1,6 @@
 # Hello, I'm Martina! 😊
 
-I'm interested in anything that's related to informatics and coding! I'm currently studying for the Master's Degree in Computer Engineering at the University of Pisa, Italy (@unipisa). 
+I'm interested in anything that's related to informatics and coding! I'm currently studying for the Master's Degree in Computer Engineering at the University of Pisa, Italy (@Unipisa). 
 
 ## Education 🎓
 
