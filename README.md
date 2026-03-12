@@ -1,11 +1,11 @@
 # Hello, I'm Martina! 😊
 
-I'm interested in anything that's related to informatics and coding! I'm currently a student of the Master's Degree in Computer Engineering at University of Pisa, Italy. 
+I'm interested in anything that's related to informatics and coding! I'm currently studying for the Master's Degree in Computer Engineering at the University of Pisa, Italy (@unipisa). 
 
 ## Education 🎓
 
 * Bachelor's Degree in **Computer Engineering** (*University of Pisa*, 2025).
-* Student of the Master's Degree in **Computer Engineering** (*University of Pisa*, 2025 - ).
+* Master's student in **Computer Engineering** (*University of Pisa*, 2025 - ).
 
 ## Tech Stack & Tools 🛠️
 
